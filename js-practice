@@ -1,0 +1,45 @@
+// Variables
+let name = "John Kennedy Salvador";
+let age = 19;
+let isStudent = true;
+
+git add.
+git commit -m "Completed Variables" 
+git push
+
+// Numbers
+let num1 = 10;
+let num2 = 20;
+
+git add.
+git commit -m "Completed Numbers" 
+git push
+
+// Booleans
+let isGreater = num1 > num2;
+
+git add.
+git commit -m "Completed Booleans" 
+git push
+
+// Comparison operators
+let isEqual = num1 === num2;
+
+git add.
+git commit -m "Completed Comparison operators" 
+git push
+
+// Strings
+let greeting = `Hello, my name is {John Kennedy Salvador} and I am {19} years old.`;
+
+git add.
+git commit -m "Completed Strings" 
+git push
+
+console.log(name);
+console.log(age);
+console.log(isStudent);
+console.log(num1);
+console.log(num2);
+console.log(isGreater);
+console.log(isEqual);
